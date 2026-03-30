@@ -1,1 +1,1 @@
-# QA-Praktice
+# QA-Practice
